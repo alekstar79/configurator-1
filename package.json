@@ -1,0 +1,20 @@
+{
+  "name": "cost_configurator",
+  "version": "1.0.0",
+  "description": "Конфигуратор стоимости доставки товара в регионы с наценками за вес посылки.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekstar79/cost_configurator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekstar79/cost_configurator/issues"
+  },
+  "homepage": "https://github.com/alekstar79/cost_configurator#readme"
+}
